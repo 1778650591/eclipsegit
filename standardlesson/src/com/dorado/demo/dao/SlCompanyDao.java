@@ -9,4 +9,5 @@ import com.dorado.demo.entity.SlCompany;
 public class SlCompanyDao extends HibernateDao<SlCompany, Long> {
 //1111222222222222222
   //xiugoa
+  //aaaaa
 }
